@@ -42,8 +42,7 @@ Spam = 1
 
 ## Results:
 
-      ![alt text](https://github.com/noonanj5atwit/Spam_Email_Detector/blob/main/graphs/Email-Spam-Model-Evaluate.png?raw=true)
-   
+      ![Alt Text](https://github.com/noonanj5atwit/Spam_Email_Detector/raw/main/graphs/Email-Spam-Model-Evaluate.png)
 
 
 ## Discussion:
