@@ -48,6 +48,23 @@ Here are some of the results of the accuracy of the model:
 
 ![alt text](https://github.com/noonanj5atwit/Spam_Email_Detector/blob/main/graphs/Email-Spam-Model-Fit.png?raw=true)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The image above shows the process of training the model. The accuracy does get to 1 but this is specifically for this data set.
 
 How will the accuracy of the model change if given another dataset?
