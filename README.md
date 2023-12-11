@@ -42,7 +42,7 @@ Spam = 1
 
 ## Results:
 
-      ![Email-Spam-Model-Fit](https://github.com/noonanj5atwit/Spam_Email_Detector/assets/90566931/64a7312b-e07a-4873-ae5c-7ac652519466)
+      ![alt text](https://github.com/noonanj5atwit/Spam_Email_Detector/graphs/Email-Spam-Model-Fit.png)
    
 
 
