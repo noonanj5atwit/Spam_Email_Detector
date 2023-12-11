@@ -46,7 +46,7 @@ The Spam Email Detector model went through training that allows it to accurately
 
 Here are some of the results of the accuracy of the model:
 
-### Fit
+### <ins>Fit</ins>
 
 ![alt text](https://github.com/noonanj5atwit/Spam_Email_Detector/blob/main/graphs/Email-Spam-Model-Fit.png?raw=true)
 
@@ -67,7 +67,7 @@ Here are some of the results of the accuracy of the model:
 
 
 
-### Evaluate
+### <ins>Evaluate</ins>
 
 The image above shows the process of training the model. The accuracy does get to 1 but this is specifically for this data set.
 
