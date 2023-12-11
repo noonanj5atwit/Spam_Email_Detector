@@ -41,7 +41,9 @@ Spam = 1
       11. Evalute is giving the model unseen data to make a prediction on the new data and test the true accuracy of the model
 
 ## Results:
-      
+
+      ![image](https://github.com/noonanj5atwit/Spam_Email_Detector/assets/90566931/74ba0dd4-d4c5-43aa-b686-fc5590ed7a0b)
+
    
 
 
