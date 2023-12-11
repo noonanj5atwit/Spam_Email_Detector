@@ -82,7 +82,10 @@ The evaluate method allows the the model to test it's training so it shows the m
 The model got an accuracy of 0.9425 (94.25%) from the unseen data. Training it on unseen data reveals the true accuracy of the model.
 
 ## Discussion:
-      
+The model is really accurate even when it is shown unseen data. The reason why the accuracy was so high when training the model is because it is just memorizing whether the email is spam or not.
+
+### <ins>Model Training</ins>
+The only thing that is trickey when training the model is that it see's the data over and over again. That is why the accuracy when training the model was so high and unrealistic. The model was just memorizing the patterns and the answers so it would end up getting 100% accuracy on data it's seen. 
       
 
       
