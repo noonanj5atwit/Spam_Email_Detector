@@ -86,10 +86,7 @@ The model is really accurate even when it is shown unseen data. The reason why t
 
 ### <ins>Model Training</ins>
 The only thing that is trickey when training the model is that it see's the data over and over again. That is why the accuracy when training the model was so high and unrealistic. The model was just memorizing the patterns and the answers so it would end up getting 100% accuracy on data it's seen. 
-      
 
-      
-3 Questions to Answer:
-1. What patterns or words contribute in the decision of a spam email vs a normal email?
-2. How will the model deal with speacial characters and how would that influence the classification of the email?
-3. How will the accuracy of the model change if given another dataset?
+One thing I struggled with at first was the time it took each epoch to train and this was because I was not taking a sample of the data from the dataset. It was going through most of the dataset's emails and took way too long. I fixed this by taking a sample of the dataset (1000 spam/1000 not spam) and used that to significantly decrease the time of each epoch. It now takes 30 - 40 seconds as shown in the picture in results.
+
+For the future, I would like to possibly figure out a way to also scan links or files sent in emails because even if the email passes the spam detection it will get flagged as spam if the email contains malicous content. I think this is a perfect fit for this model since most mail systems scan the emails and files for malicous content. 
